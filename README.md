@@ -1,6 +1,3 @@
-<p align="left">
-  <samp>
-    > Eugene Co <br>
-    > imeugeneco@gmail.com <br>
-  </samp>
-</p>
+Eugene Co <br><br>
+blog: [imeugeneco.xyz](imeugeneco.xyz) <br>
+email: imeugeneco@gmail.com <br>
